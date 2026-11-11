@@ -30,4 +30,6 @@
 ### Figure 10: Analysing HTTP POST requests flagged as Pushdo Checkin behaviour.
 <img width="2000" height="1029" alt="image" src="https://github.com/user-attachments/assets/d28d17ba-72cf-4086-8bff-f442c7749f90" />
 
+### Figure 11: Analysing the HTTP POST request preceding the installation of trow.exe.
+<img width="2000" height="1075" alt="image" src="https://github.com/user-attachments/assets/4198c428-f9bd-4031-9659-bb77991d419c" />
 
